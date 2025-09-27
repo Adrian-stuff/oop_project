@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "oop_proj (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "oop_proj (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

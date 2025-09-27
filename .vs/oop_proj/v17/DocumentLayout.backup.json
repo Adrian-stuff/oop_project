@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Adrian\\source\\repos\\oop_proj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{065303C4-CD74-47FF-A537-E412E4557795}|oop_proj\\oop_proj.csproj|c:\\users\\adrian\\source\\repos\\oop_proj\\oop_proj\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065303C4-CD74-47FF-A537-E412E4557795}|oop_proj\\oop_proj.csproj|solutionrelative:oop_proj\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065303C4-CD74-47FF-A537-E412E4557795}|oop_proj\\oop_proj.csproj|c:\\users\\adrian\\source\\repos\\oop_proj\\oop_proj\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065303C4-CD74-47FF-A537-E412E4557795}|oop_proj\\oop_proj.csproj|solutionrelative:oop_proj\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065303C4-CD74-47FF-A537-E412E4557795}|oop_proj\\oop_proj.csproj|c:\\users\\adrian\\source\\repos\\oop_proj\\oop_proj\\appevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065303C4-CD74-47FF-A537-E412E4557795}|oop_proj\\oop_proj.csproj|solutionrelative:oop_proj\\appevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065303C4-CD74-47FF-A537-E412E4557795}|oop_proj\\oop_proj.csproj|c:\\users\\adrian\\source\\repos\\oop_proj\\oop_proj\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{065303C4-CD74-47FF-A537-E412E4557795}|oop_proj\\oop_proj.csproj|solutionrelative:oop_proj\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065303C4-CD74-47FF-A537-E412E4557795}|oop_proj\\oop_proj.csproj|c:\\users\\adrian\\source\\repos\\oop_proj\\oop_proj\\schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{065303C4-CD74-47FF-A537-E412E4557795}|oop_proj\\oop_proj.csproj|solutionrelative:oop_proj\\schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065303C4-CD74-47FF-A537-E412E4557795}|oop_proj\\oop_proj.csproj|c:\\users\\adrian\\source\\repos\\oop_proj\\oop_proj\\schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{065303C4-CD74-47FF-A537-E412E4557795}|oop_proj\\oop_proj.csproj|solutionrelative:oop_proj\\schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppEvents.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\oop_proj\\oop_proj\\AppEvents.cs",
+              "RelativeDocumentMoniker": "oop_proj\\AppEvents.cs",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\oop_proj\\oop_proj\\AppEvents.cs",
+              "RelativeToolTip": "oop_proj\\AppEvents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T05:08:32.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SCHEMA.sql ",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\oop_proj\\oop_proj\\SCHEMA.sql",
+              "RelativeDocumentMoniker": "oop_proj\\SCHEMA.sql",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\oop_proj\\oop_proj\\SCHEMA.sql",
+              "RelativeToolTip": "oop_proj\\SCHEMA.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-27T04:31:46.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\oop_proj\\oop_proj\\Database.cs",
+              "RelativeDocumentMoniker": "oop_proj\\Database.cs",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\oop_proj\\oop_proj\\Database.cs",
+              "RelativeToolTip": "oop_proj\\Database.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T03:57:00.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\oop_proj\\oop_proj\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "oop_proj\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\oop_proj\\oop_proj\\MainWindow.xaml.cs",
+              "RelativeToolTip": "oop_proj\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAowFsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T17:32:48.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\oop_proj\\oop_proj\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "oop_proj\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\oop_proj\\oop_proj\\MainWindow.xaml",
+              "RelativeToolTip": "oop_proj\\MainWindow.xaml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-26T17:32:08.732Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

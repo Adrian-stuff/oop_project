@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Window
+    x:Class="oop_proj.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:oop_proj"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Title="oop_proj">
+
+    <Window.SystemBackdrop>
+        <MicaBackdrop />
+    </Window.SystemBackdrop>
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="200"/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Row="0" Grid.Column="0" Orientation="Horizontal" Margin="0,0,0,10">
+            <TextBlock Text="Select Camera:" VerticalAlignment="Center" Margin="0,0,5,0"/>
+            <ComboBox x:Name="cameraNamesForm" Width="300" VerticalAlignment="Center" SelectionChanged="cameraNamesForm_SelectionChanged"/>
+        </StackPanel>
+
+        <Grid Grid.Row="1" Grid.Column="0" Background="Black">
+            <Image x:Name="cameraPreview"
+           Stretch="Uniform"
+           HorizontalAlignment="Center"
+           VerticalAlignment="Center"/>
+
+            <Canvas x:Name="boundingBoxCanvas"
+            IsHitTestVisible="False"
+            Background="Transparent"/>
+        </Grid>
+
+
+
+        <StackPanel Grid.Row="1" Grid.Column="1" Margin="10,0,0,0">
+            <Button x:Name="captureButton" Content="Capture Face" Height="30" Click="captureButton_Click" IsEnabled="False"/>
+            <TextBlock Text="Captured Face (Color):" Margin="0,10,0,5" FontWeight="Bold"/>
+            <Border BorderBrush="Gray" BorderThickness="1" Height="150" Width="150" HorizontalAlignment="Left">
+                <Image x:Name="capturedFaceImage" Stretch="Uniform"/>
+            </Border>
+
+            <TextBlock x:Name="textStatus" Text="" Margin="0,10,0,5" FontWeight="Bold"></TextBlock>
+        </StackPanel>
+    </Grid>
+</Window>
+
